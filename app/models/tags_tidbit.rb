@@ -1,0 +1,2 @@
+class TagsTidbit < ApplicationRecord
+end
